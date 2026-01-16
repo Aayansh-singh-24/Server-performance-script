@@ -22,6 +22,8 @@ All data is stored in a log file for future reference.
 
 ---
 
+Project url: https://roadmap.sh/projects/server-stats
+
 ## Technologies Used
 
 - Bash / Shell scripting
